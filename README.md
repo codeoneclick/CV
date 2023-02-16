@@ -55,7 +55,7 @@ Responsibilities: Game Toolsets development. Automation Tools development. Game 
 
 Probably it is weird but my hooby is also game development. So in a free time I am developing different tools / small games using Unity3D and Unreal Engine 4.
 
-I developed my own game engine on C++ with 2 graphics API - OpenGLES 3.0 and Metal. I released my own game based on my engine.
+I developed my own game engine on C++ with 2 graphics API - OpenGLES 3.0 and Metal. I released my own game based on my engine. Code is open so you can look at it in - https://github.com/codeoneclick/game-box
 
 https://apps.apple.com/sa/app/hyper-drift-retro/id1471766622
 
